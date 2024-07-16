@@ -18,8 +18,8 @@ One of the key metrics in agricultural productivity is crop yield, typically mea
 
 ## Dataset
 - **Source:** https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset
-- **Description:** This dataset is for ABC Multistate bank with columns, customer_id, credit_score, country, gender, age, tenure, balance, products_number, has_credit_card, is_active_member, estimated_salary, and exited, which is the churn variable used as the target. 1 if the client has left the bank during some period or 0 if he/she has not.
-
+- **Description:** The dataset comprises agricultural data with attributes such as Area, Crop name, Year, hg/ha_yield, average rain fall in mm per year, pesticides in tonnes, average temperature.
+  
 ## Data Preprocessing
 - Handling missing values
 - Handling duplicate values
